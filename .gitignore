@@ -1,8 +1,9 @@
-./build/
-./build/*
-./build-*/
+build/
+build/*
+build_*/
+build-*/
 .DS_Store
-./cmake/
+cmake/
 *.log
 *.tmp
 *.bak
@@ -10,3 +11,6 @@
 *.out
 *.o
 *.exe
+*.class
+*.jar
+*.pyc

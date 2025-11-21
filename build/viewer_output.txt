@@ -1,2 +1,0 @@
-2025-11-21 19:48:27.066 [INFO] Visual Viewer started
-2025-11-21 19:48:27.603 [INFO] StreamClient created for 192.168.11.15:9999
