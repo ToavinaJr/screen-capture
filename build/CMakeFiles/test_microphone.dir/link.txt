@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test_microphone.dir/src/audio/MicrophoneCapture.cpp.o CMakeFiles/test_microphone.dir/src/utils/Logger.cpp.o CMakeFiles/test_microphone.dir/tests/test_microphone.cpp.o -o test_microphone  /usr/lib/x86_64-linux-gnu/libSDL2.so /usr/lib/x86_64-linux-gnu/libSDL2main.a -lpthread 

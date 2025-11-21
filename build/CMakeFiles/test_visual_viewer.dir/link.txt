@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test_visual_viewer.dir/src/network/StreamClient.cpp.o CMakeFiles/test_visual_viewer.dir/src/utils/Logger.cpp.o CMakeFiles/test_visual_viewer.dir/tests/test_visual_viewer.cpp.o -o test_visual_viewer  /usr/lib/x86_64-linux-gnu/libSDL2.so /usr/lib/x86_64-linux-gnu/libSDL2main.a -lpthread 

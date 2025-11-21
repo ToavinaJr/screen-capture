@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test_logger.dir/src/utils/Logger.cpp.o CMakeFiles/test_logger.dir/tests/test_logger_minimal.cpp.o -o test_logger 

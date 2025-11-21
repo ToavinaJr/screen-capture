@@ -1,0 +1,12 @@
+/home/toavina-jr/Documents/MISA/Mr Haga/multimedia-streaming-app/build/CMakeFiles/screen_share.dir
+/home/toavina-jr/Documents/MISA/Mr Haga/multimedia-streaming-app/build/CMakeFiles/test_logger.dir
+/home/toavina-jr/Documents/MISA/Mr Haga/multimedia-streaming-app/build/CMakeFiles/test_threadpool.dir
+/home/toavina-jr/Documents/MISA/Mr Haga/multimedia-streaming-app/build/CMakeFiles/test_common.dir
+/home/toavina-jr/Documents/MISA/Mr Haga/multimedia-streaming-app/build/CMakeFiles/test_microphone.dir
+/home/toavina-jr/Documents/MISA/Mr Haga/multimedia-streaming-app/build/CMakeFiles/test_stream_server.dir
+/home/toavina-jr/Documents/MISA/Mr Haga/multimedia-streaming-app/build/CMakeFiles/test_e2e_streaming.dir
+/home/toavina-jr/Documents/MISA/Mr Haga/multimedia-streaming-app/build/CMakeFiles/test_viewer.dir
+/home/toavina-jr/Documents/MISA/Mr Haga/multimedia-streaming-app/build/CMakeFiles/test_stream_app.dir
+/home/toavina-jr/Documents/MISA/Mr Haga/multimedia-streaming-app/build/CMakeFiles/test_visual_viewer.dir
+/home/toavina-jr/Documents/MISA/Mr Haga/multimedia-streaming-app/build/CMakeFiles/edit_cache.dir
+/home/toavina-jr/Documents/MISA/Mr Haga/multimedia-streaming-app/build/CMakeFiles/rebuild_cache.dir
